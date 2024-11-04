@@ -1,0 +1,21 @@
+*{
+    margin: 0 8px;
+    padding: 0 8px;
+    
+} 
+ .container{ 
+    background-color: bisque;
+ }
+    .container{
+        font-style: italic;
+    }
+    .kemantarihçe{
+    font-size: 25px;
+    }
+    .kemantarihçe{ 
+        color: black;
+    }
+    .sitelinkleribaslik{
+        font-size: medium;
+    }
+   
